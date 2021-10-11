@@ -22,10 +22,6 @@ Computer Science student
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-<p align="center">
-  <b>Frameworks:</b><br>
-  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
-</p>
 
 <p align="center">
   <b>IDE:</b><br>
