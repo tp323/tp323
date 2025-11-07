@@ -1,15 +1,14 @@
 ### Hi there, I'm Tiago, aka tp323 👋
-Currently studying at:
+I'm a computer engineer interested in Backend, AI and Cybersecurity.
 
- - Instituto Superior de Engenharia de Lisboa
-
-Computer Science student
+Education:
+Bachelor's in Computer Engineering at Instituto Superior de Engenharia de Lisboa
 
 ### Experience in:
 
 <p align="center">
   <b>Programming languages:</b><br>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ff3333?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
 </p>
 
 <p align="center">
@@ -25,7 +24,7 @@ Computer Science student
 
 <p align="center">
   <b>IDE:</b><br>
-  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" /> <img src="https://img.shields.io/badge/VSCode-3370ff.svg?style=for-the-badge&logo=code&logoColor=white" />
 </p>
 
 <p align="center">
